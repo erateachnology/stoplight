@@ -1,0 +1,5 @@
+server:
+  port: 9000
+contact:
+  base:
+    url: https://services.leadconnectorhq.com/contacts
